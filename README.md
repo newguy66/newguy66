@@ -53,5 +53,7 @@ My passion for technology has led me to develop an enthusiasm for cybersecurity,
 </div>
 
 ## Projects
+
+- [Home-Lab](https://github.com/newguy66/Home-Lab)
 - Detection Lab
 - SOC Automation Project
