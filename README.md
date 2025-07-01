@@ -55,5 +55,6 @@ My passion for technology has led me to develop an enthusiasm for cybersecurity,
 ## Projects
 
 - [Home-Lab](https://github.com/newguy66/Home-Lab)
+- [EDR with LimaCharlie](https://github.com/newguy66/EDR-with-LimaCharlie)
 - Detection Lab
 - SOC Automation Project
