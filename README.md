@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/matt-crow"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a working professional with a background in complex diagnostics and a dedication to effectively solve problems.
+I am a working professional with a background in complex diagnostics and a dedication to effectively solving problems.
 
 ## Objective
 
