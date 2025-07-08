@@ -12,8 +12,9 @@ My passion for technology has led me to develop an enthusiasm for cybersecurity,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Real-time EDR and Sysmon telemetry             | [EDR with LimaCharlie](https://github.com/newguy66/EDR-with-LimaCharlie) |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Real-time EDR and Sysmon telemetry            | [EDR with LimaCharlie](https://github.com/newguy66/EDR-with-LimaCharlie) |
+| VM initialization and VLAN configuration      | [Home Lab](https://github.com/newguy66/Home-Lab)|
+| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/newguy66/SOC-Automation-Lab)|
 | next project                                  | link |
 | the one after that                            | link |
 
