@@ -60,3 +60,4 @@ My passion for technology has led me to develop an enthusiasm for cybersecurity,
 - [Home-Lab](https://github.com/newguy66/Home-Lab)
 - [EDR with LimaCharlie](https://github.com/newguy66/EDR-with-LimaCharlie)
 - [SOC Automation Lab](https://github.com/newguy66/SOC-Automation-Lab)
+- [WAF with Safeline](https://github.com/newguy66/WAF)
